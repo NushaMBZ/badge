@@ -1,1 +1,1 @@
-const pair ='pairextraordiniray';
+const pair ='pairextraordinira';
